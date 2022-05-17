@@ -102,7 +102,7 @@ p {
 }
 
 .scroll {
-    width: 20%;
+    width: 30%;
     flex-direction: row;
     align-items: center;
     text-align: center;
@@ -112,7 +112,7 @@ p {
 }
 
 .scroll h1 {
-    width: 50%;
+    width: 40%;
     font-size: 10px;
     align-items: center;
     text-align: center;
@@ -121,8 +121,9 @@ p {
 }
 
 .scroll h4 {
-    margin-left: 22%;
+    margin-left: 15%;
     width: 30%;
+    margin-top: -5px;
 }
 
 .container {
@@ -325,6 +326,7 @@ p {
     .scroll h4 {
         width: 30%;
         margin-left: -100px;
+        margin-top: -25px;
     }
     .container {
         display: inline-block;
